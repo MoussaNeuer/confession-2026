@@ -961,4 +961,4 @@
   <!-- Petit message PHP invisible (clin d'œil) -->
   <?php // version 3.0 – Saint-Valentin 2026 – envoi WhatsApp intégré ?>
 </body>
-</html>
+</html>" " 
